@@ -5,8 +5,7 @@
 ---
 
 ## 👩‍💻 Sobre mim
-Estou iniciando minha jornada na área de cibersegurança e aprendendo na prática através do :contentReference[oaicite:0]{index=0}.
-
+Estou iniciando minha jornada na área de cibersegurança e aprendendo na prática.
 Aqui eu documento tudo o que estou aprendendo de forma simples, organizada e consistente 💻💖
 
 ---
