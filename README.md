@@ -11,10 +11,6 @@ Aqui eu documento tudo o que estou aprendendo de forma simples, organizada e con
 ---
 
 ## 🏅 Meu Badge
-
-![TryHackMe Badge](https://tryhackme.com/lais.pamela/badges/terminaled)
-
-🔗 Veja meu badge completo:  
 https://tryhackme.com/lais.pamela/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69a7338bf1ecae6e23b4cc60
 
 ---
